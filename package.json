@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-mac",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhojan789/random-str-msg-mac.git"
+  },
+  "keywords": [],
+  "author": "Jhojan Tobón <jhojantobonm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhojan789/random-str-msg-mac/issues"
+  },
+  "homepage": "https://github.com/jhojan789/random-str-msg-mac#readme"
+}
