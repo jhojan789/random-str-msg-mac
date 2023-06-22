@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jhojan789/random-str-msg-mac/issues"
   },
-  "homepage": "https://github.com/jhojan789/random-str-msg-mac#readme"
+  "homepage": "https://github.com/jhojan789/random-str-msg-mac#readme",
+  "bin": {
+    "random-str-msg-mac": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
